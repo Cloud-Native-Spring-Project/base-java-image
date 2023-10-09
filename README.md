@@ -19,3 +19,5 @@ docker tag base-java-image:1.0.0 ghcr.io/<your_github_username>/base-java-image:
 ```
 docker push ghcr.io/<your_github_username>/base-java-image:1.0.0
 ```
+
+test content
